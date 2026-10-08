@@ -1,4 +1,4 @@
-# Hi, I'm Shifan 
+# Hi, I'm Steven
 
 -  Computer Science student at the University of Cincinnati
 -  Interested in software development and data analysis
